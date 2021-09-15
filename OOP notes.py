@@ -14,11 +14,15 @@ Instance- object created from a class
 Class definition format-
 class Class_name:
 
+__init__(self) is short for initialize self
+    - "self" ensures that we're only performing methods on one single instance
+    - all attributes under this definition are the attributes for the class
 
 
+"__" ensures your attributes are hidden
 
 
-
+str__method- notes in the ppt
 
 
 
