@@ -24,6 +24,52 @@ __init__(self) is short for initialize self
 
 str__method- notes in the ppt
 
+instance attribute- belongs to specific instance of a class
+
+name.capitalize()
+    - capitalizes name
+
+UML diagram- standard diagrams for graphically depicting object-oriented systems
+
+
+------------------------------------------------------------------------------------------------
+INHERITANCE
+------------------------------------------------------------------------------------------------
+
+Inheritance is an "is a" relationship- one object is a specialized version of another
+    - SUV "is a" subtype of superclass automobile and inherits all the attributes of automobiles
+    - Code format:
+        - superclass name is placed in parentheses after subclass name
+        - ex: class SUV(automobile)
+    - Must create the supertype before the subtype
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 """
